@@ -1,5 +1,5 @@
 {
-    "name": "phois/whois",
+    "name": "nexces/php-whois",
     "description": "Whois client.",
     "keywords": ["whois"],
     "version": "1.0.0",
@@ -10,6 +10,10 @@
             "email": "David.R.Rivera193@gmail.com",
             "homepage": "http://www.protodx.com",
             "role": "Systems Developer"
+        },
+        {
+            "name": "Adrian 'Nexces' Piotrowicz",
+            "email": "nexces@nxstudio.pl"
         }
     ],
     "require": {
